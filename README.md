@@ -1,15 +1,15 @@
-This repository is using ReactJS, TypeScript and TailwindCSS. It also runs on node 18 (see .nvmrc) and has a formatter - prettier. If you're running this for the first time - please ensure you have nvm (node version manager).
+![Screenshot from 2023-03-20 20-35-43](https://user-images.githubusercontent.com/65710152/226447945-95d965e4-cee8-4d9e-9e5b-d279e982a68a.png)
 
-## How To Run
+## Desktop version
 
-If you don't have nvm installed, run the following command:
-`curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash`
-After you got nvm installed on your machine, run `nvm i` and then `nvm use` (to have the correct nodeJs version)
+![Screenshot from 2023-03-20 20-35-43](https://user-images.githubusercontent.com/65710152/226448207-143eaa6f-e6dc-419a-8cfb-5e812da22bd7.png)
 
-Once you have the correct node version, run `npm i` to get all the required dependencies installed
+![Screenshot from 2023-03-20 20-36-23](https://user-images.githubusercontent.com/65710152/226448299-fe9428c4-7fd4-498a-873b-87a40195478d.png)
 
-After everything is installed, run `npm run start` and navigate to http://localhost:3000
+## Mobile 
+![Screenshot from 2023-03-20 20-37-46](https://user-images.githubusercontent.com/65710152/226448372-731cbd56-e430-4c30-a86c-989eaf4e1f73.png)
+![Screenshot from 2023-03-20 20-37-34](https://user-images.githubusercontent.com/65710152/226448383-bb60be88-5fef-4934-ad5f-fdde7fed374a.png)
 
-## API Calls
+
 
 Please Note: The OpenWeather API is using an API Key. In the repository you fill find a `.env.example` file which you need to copy/save as `.env` and paste the value of your API key (which you can get when you register on the OpenWeather API website).
